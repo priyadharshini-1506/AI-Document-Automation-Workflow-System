@@ -1,0 +1,22 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite
+
+# User uploaded documents
+uploads/
+
+# Generated files
+generated_reports/
+
+# Virtual environment
+venv/
+
+# Streamlit
+.streamlit/

@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+easyocr
+PyMuPDF
+python-docx
+groq
+bcrypt
+plotly
+fpdf2
+python-dotenv
+Pillow
+opencv-python
+sqlalchemy
+reportlab
+openpyxl
+email-validator
