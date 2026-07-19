@@ -140,6 +140,3 @@ The system successfully provides:
 
 
 
-## License
-
-This project is developed for educational and research purposes.
